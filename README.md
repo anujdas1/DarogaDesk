@@ -1,4 +1,4 @@
-# DarogaDesk 🚦
+# DarogaDesk 
 
 > **Enterprise traffic enforcement and predictive analytics platform.**
 
@@ -6,21 +6,21 @@ DarogaDesk is a comprehensive, data-driven solution designed to tackle parking-i
 
 ---
 
-## ✨ Features
+## Features
 
 - **Predictive Hotspots:** Utilize AI/ML forecasts to predict where traffic violations and congestion will occur in the next 72 hours.
 - **Enforcement Quality Index:** Automatically score and track the rejection rate of traffic tickets submitted by local police stations, highlighting where further training or deployment adjustments are needed.
 - **Thermal Heatmaps:** Visually map violation densities across city sectors using interactive CartoDB dark-mode maps.
 - **Linear-Inspired UI:** A meticulously crafted, dark-mode-first aesthetic heavily inspired by `Linear.app`. Features high-contrast typography (Inter), glassmorphism navbars, and animated glowing boundaries.
 
-## 🏗 Architecture
+## Architecture
 
 - **Frontend:** Pure HTML5, JavaScript, and highly optimized custom CSS (no heavy frameworks).
 - **Backend:** Python Flask API serving data natively to the frontend.
 - **Database:** MongoDB Atlas (NoSQL) for highly scalable, dynamic traffic violation data ingestion.
 - **Data Science:** Integrated pandas-driven data generation and analytics models.
 
-## 🚀 Quick Start
+## Quick Start
 
 To run the DarogaDesk application locally, follow these steps:
 
